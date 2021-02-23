@@ -1,0 +1,10 @@
+Sistemas_Concurrentes_Distribuidos troncal O 1 dificil 6
+Sistemas_Operativos troncal O 1 normal 6
+Estructuras_Datos troncal O 1 facil 6
+Estructura_Computadores troncal O 1 dificil 6
+Programacion_Disenio_Orientado_Objetos troncal O 1 facil 6
+Algoritmica troncal O 2 normal 6
+Arquitectura_Computadores troncal O 2 dificil 6
+Fundamento_Bases_Datos troncal O 2 facil 6
+Fundamentos_Ingenieria_Softwate troncal O 2 facil 6
+Ingenieria_Artifical troncal O 2 normal 6

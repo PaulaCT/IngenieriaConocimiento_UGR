@@ -1,0 +1,10 @@
+Algebra_Lineal_Estructuas_Matematicas troncal O 1 dificil 6
+Calculo troncal O 1 dificil 6
+Fundamentos_Programacion troncal O 1 facil 6
+Fundamentos_Software troncal O 1 normal 6
+Fundamentos_Fisicos_Tecnologicos troncal O 1 facil 6
+Estadistica troncal O 2 facil 6
+Ingenieria_Empresa_Sociedad troncal O 2 normal 6
+Logica_Metodos_Discretos troncal O 2 dificil 6
+Modelos_Programacion troncal O 2 dificil 6
+Tecnologia_Organizacion_Computadores troncal O 2 facil 6
